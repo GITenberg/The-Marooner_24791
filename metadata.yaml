@@ -1,0 +1,38 @@
+_repo: The-Marooner_24791
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Summers, Leo
+    aliases:
+    - Summers, L. R.
+    - Summers, L.R.
+    - Summers, Leo Ramon
+    birthdate: 1925
+    deathdate: 1985
+    gutenberg_agent_id: '26735'
+    url: http://www.gutenberg.org/2009/agents/26735
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stearns, Charles A.
+    gutenberg_agent_id: '26736'
+    url: http://www.gutenberg.org/2009/agents/26736
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24791'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction, American'
+- !lcsh 'Psychological fiction'
+title: The Marooner
+url: http://www.gutenberg.org/ebooks/24791
